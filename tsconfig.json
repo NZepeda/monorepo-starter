@@ -10,7 +10,8 @@
     "strict": true,                          
     /* Module Resolution Options */
     "esModuleInterop": true,     
-    "moduleResolution": "Node",            
+    "moduleResolution": "Node",
+    "allowJs": true,        
     /* Advanced Options */
     "skipLibCheck": true,                   
     "forceConsistentCasingInFileNames": true 
