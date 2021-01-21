@@ -1,9 +1,14 @@
 {
-  "name": "@monorepo-starter/monorepo-starter",
+  "name": "@helloimnestor/monorepo-starter",
   "version": "0.0.1",
   "description": "a monorepo starter",
   "main": "src/index.ts",
-  "author": "nzepeda",
+  "author": "Nestor Zepeda",
+  "homepage": "https://github.com/NZepeda/monorepo-starter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NZepeda/monorepo-starter.git"
+  },
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.1"
