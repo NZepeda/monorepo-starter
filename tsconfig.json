@@ -4,13 +4,16 @@
 
     /* Basic Options */
     "target": "ESNext",                          
-    "module": "ESNext",                       
+    "module": "ESNext",
+    "jsx": "react",                      
     /* Strict Type-Checking Options */
     "strict": true,                          
     /* Module Resolution Options */
-    "esModuleInterop": true,                 
+    "esModuleInterop": true,     
+    "moduleResolution": "Node",            
     /* Advanced Options */
     "skipLibCheck": true,                   
     "forceConsistentCasingInFileNames": true 
-  }
+  },
+  "include": ["src"]
 }
