@@ -1,2 +1,4 @@
-export * from "./MyComponent";
+import MyComponent from "./MyComponent";
+
+export { MyComponent };
 export * from "./greet";
