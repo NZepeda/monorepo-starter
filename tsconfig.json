@@ -14,7 +14,9 @@
     "allowJs": true,        
     /* Advanced Options */
     "skipLibCheck": true,                   
-    "forceConsistentCasingInFileNames": true 
+    "forceConsistentCasingInFileNames": true ,
+    "declaration": true,
+    "outDir": "./dist"
   },
   "include": ["src"]
 }
