@@ -1,6 +1,6 @@
 {
   "name": "@helloimnestor/monorepo-starter",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "a monorepo starter",
   "author": "Nestor Zepeda",
   "homepage": "https://github.com/NZepeda/monorepo-starter",
@@ -13,9 +13,6 @@
   },
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
-  "files": [
-    "./dist"
-  ],
   "license": "ISC",
   "peerDependencies": {
     "react": "^17.0.0"
