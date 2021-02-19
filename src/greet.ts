@@ -1,3 +1,3 @@
-export function greet() {
-  console.log("Hello World!");
-}
+export const greet = (name: String) => {
+  console.log("Hello world!");
+};
